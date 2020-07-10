@@ -1,5 +1,5 @@
 
-![About Me](https://github.com/muhendis/muhendis/blob/master/gif.gif=250x250)
+![About Me](https://github.com/muhendis/muhendis/blob/master/gif.gif =250x250)
 <!--
 **muhendis/muhendis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
