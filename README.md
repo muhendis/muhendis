@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=muhendis&color=green&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=muhendis&color=blue&label=PROFILE+VIEWS)
 <img src="https://github.com/muhendis/muhendis/blob/master/gif.gif" data-canonical-src="https://github.com/muhendis/muhendis/blob/master/gif.gif" width="1000" height="100" />
 
 
